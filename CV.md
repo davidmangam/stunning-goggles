@@ -10,11 +10,15 @@ My professional areas of interest include drawing, sketching, and designing. I s
 Jan 1806-Present
 
 - Reduced smudges by 4%
+
 - Raised designer satisfaction by more than 70 basis points
+
 ---
 - **Principal writer**, Derwent Cumberland Co
 Jan 1781-1806  25 Years
+
 - Wrote stuff
+
 ---
 # SKILLS
 Technical
