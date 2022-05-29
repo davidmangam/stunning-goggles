@@ -2,8 +2,6 @@
 parent: What is Lorem Ipsum?
 ---
 
-{% snippet1.md %}
-
 # Task example
 
 Some random procedures
