@@ -1,3 +1,7 @@
+---
+parent: Lorem_Ipsum
+---
+
 # Task example
 
 Some random procedures
