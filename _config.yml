@@ -6,4 +6,5 @@ author: something@live.com
 
 
 markdown: kramdown
-theme: minima
+
+remote_theme: just-the-docs/just-the-docs
