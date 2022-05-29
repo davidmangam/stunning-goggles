@@ -1,5 +1,5 @@
 ---
-parent: Lorem_Ipsum
+parent: What is Lorem Ipsum?
 ---
 
 # Task example
